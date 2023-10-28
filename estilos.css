@@ -3,9 +3,7 @@
     background-image: url(./imagenes/fondo-tecnologia-metal-negro_109181-104.avif);
 	background-size: 500px;
 }
-.card{
-    width: 500px; 
-}
+
 .trabajos{
 	display: flex;
 	width: 400px;
