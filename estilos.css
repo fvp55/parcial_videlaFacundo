@@ -85,6 +85,13 @@ body {
     text-align: center;
     width: auto;
 	height: 30px;
+}
+.linea2{
+	background-color: #666;
+    color: white;
+    text-align: center;
+    width: auto;
+	height: 30px;
 	border-radius: 20px;
 }
 .titulo {
